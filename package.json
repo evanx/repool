@@ -1,6 +1,6 @@
 {
   "name": "repool",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Redis utility to pop from list and add to set.",
   "main": "lib/index.js",
   "scripts": {
